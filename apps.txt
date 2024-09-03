@@ -1,0 +1,39 @@
+# Version Control
+git
+gh
+
+# Code Editors
+nano
+vim
+code
+
+# Networking Tools
+curl
+wget
+netstat
+telnet
+
+# Programming Tools
+python3
+pycodestyle
+shellcheck
+node
+gcc
+
+# Productivity Tools
+fortune-mod
+fastfetch
+tmux
+htop
+btop
+tree
+
+# Communication
+discord
+
+# Browser
+microsoft-edge-stable
+
+# Docker 
+# gnome-terminal
+docker
